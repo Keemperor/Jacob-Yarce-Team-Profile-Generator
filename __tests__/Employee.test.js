@@ -7,7 +7,7 @@ describe("Employee", () => {
     });
 
     it("Can set name via constructor arguments", () => {
-        const name = "Alice";
+        const name = "Jacob";
         const employee = new Employee(name);
         expect(employee.name).toBe(name);
     });
@@ -26,7 +26,7 @@ describe("Employee", () => {
 
     describe("getName", () => {
         it("Can get name via getName()", () => {
-            const testValue = "Alice";
+            const testValue = "Jacob";
             const employee = new Employee(testValue);
             expect(employee.getName()).toBe(testValue);
         });
@@ -51,7 +51,7 @@ describe("Employee", () => {
     describe("getRole", () => {
         it("getRole() should return \"Employee\"", () => {
             const testValue = "Employee";
-            const employee = new Employee("Alice", 1, "test@test.com");
+            const employee = new Employee("Jacob", 1, "test@test.com");
             expect(employee.getRole()).toBe(testValue);
         });
     });
