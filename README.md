@@ -4,12 +4,19 @@
   [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
   ## Table of Contents 
+  - [Video](#video)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#guidelines)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Additional Info](#additional-info)
+
+  ## Video Link and Image preview:
+
+  ![Image Preview](../src/JY-team-generator-sample.png)
+
+  Link: https://drive.google.com/file/d/1Vo4tOmQR3vjANXmEtE6I4P_wuk5uhGt4/view?usp=sharing
 
   ## Description:
   This profile generator let's you quickly and easily generate a profile of your current team and basic information for easy use. Keep track of your team and add to the team as the team grows!
