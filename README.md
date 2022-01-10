@@ -14,7 +14,7 @@
 
   ## Video Link and Image preview:
 
-  ![Image Preview](../src/JY-team-generator-sample.png)
+  ![Image Preview](https://github.com/Keemperor/Jacob-Yarce-Team-Profile-Generator/blob/main/src/JY-team-generator-sample.png)
 
   Link: https://drive.google.com/file/d/1Vo4tOmQR3vjANXmEtE6I4P_wuk5uhGt4/view?usp=sharing
 
